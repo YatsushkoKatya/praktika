@@ -1,7 +1,7 @@
 Практическая работа №3
 =====================
 
-1.Exif Viewer
+Exif Viewer
 -----------------------------------
 С помощью программы Exif Viewer нам удалось получить метаданные с фотографии, скачанной из социальной сети.
 
@@ -11,7 +11,7 @@
 
 ![screenshot of sample](https://github.com/YatsushkoKatya/praktika/blob/main/3/screenshots/geo2.jpg)
 
-2.FOCA
+FOCA
 -----------------------------------
 
 С помощью программного обеспечения FOCA мы смогли  просканировать указанный домен (mirea.ru) в поисках документов в популярных форматах с помощью трех поисковых систем (Google, Bing и DuckDuckGo) и извлечь метаданные.
@@ -30,7 +30,7 @@
 
 ![screenshot of sample](https://github.com/YatsushkoKatya/praktika/blob/main/3/screenshots/FOCA4.jpg)
 
-3.CCleaner
+CCleaner
 -----------------------------------
 
 С помощью этого инструмента мы произвели очистку системного мусора.
@@ -41,7 +41,7 @@
 
 ![screenshot of sample](https://github.com/YatsushkoKatya/praktika/blob/main/3/screenshots/CC2.jpg)
 
-4.RSTUDIO
+RSTUDIO
 -----------------------------------
 
 С помощью этой программы мы смогли восстановить удаленный файл в прежнюю директорию.
